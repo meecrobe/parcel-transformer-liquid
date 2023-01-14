@@ -1,5 +1,7 @@
 # parcel-transformer-liquid
 
+![Build](https://github.com/meecrobe/parcel-transformer-liquid/actions/workflows/main.yml/badge.svg)
+
 [Parcel 2](https://parceljs.org/) transformer plugin for [LiquidJS](https://liquidjs.com/).
 
 ## Installation
