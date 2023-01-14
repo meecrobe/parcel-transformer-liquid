@@ -1,0 +1,8 @@
+{
+  "root": ["src/partials/"],
+  "extname": ".liquid",
+  "globals": {
+    "page_title": "Liquid transformer example",
+    "today": "Wednesday"
+  }
+}

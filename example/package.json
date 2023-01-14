@@ -1,0 +1,14 @@
+{
+  "name": "transformer-example",
+  "version": "1.0.0",
+  "description": "Transformer example",
+  "author": "Vadzim Tsupryk",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "parcel-transformer-liquid": "file:.."
+  },
+  "scripts": {
+    "build": "parcel build src/index.liquid"
+  }
+}
