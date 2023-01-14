@@ -6,6 +6,12 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "keywords": [
+    "parcel",
+    "parcel-transformer",
+    "liquid",
+    "shopify"
+  ],
   "files": [
     "dist",
     "src"
