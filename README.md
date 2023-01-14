@@ -12,9 +12,8 @@ $ yarn add -D parcel-transformer-liquid
 
 Add the transformer to Parcel config file:
 
+`.parcelrc`
 ```json
-// .parcelrc
-
 {
   "extends": "@parcel/config-default",
   "transformers": {
@@ -27,9 +26,8 @@ Add the transformer to Parcel config file:
 
 To pass [options](https://liquidjs.com/tutorials/options.html) to the LiquidJS engine, create a configuration file named `.liquidrc`, `.liquidrc.js`, `.liquidrc.cjs`, `liquid.config.js`, or `liquid.config.cjs`:
 
+`.liquidrc`
 ```json
-// .liquidrc
-
 {
   "root": ["src/partials/"],
   "extname": ".liquid",
