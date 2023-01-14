@@ -12,6 +12,7 @@
     "liquid",
     "shopify"
   ],
+  "homepage": "https://github.com/meecrobe/parcel-transformer-liquid#readme",
   "files": [
     "dist",
     "src"
